@@ -1,0 +1,26 @@
+.sidebar {
+  background-color: #ffffff;
+  width: 250px;
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  height: calc(100vh - 40px); /* Adjust height based on the total available vertical space */
+  overflow-y: auto;
+}
+
+.profile-card {
+  background-color: #edf2f7;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.profile-card h3 {
+  font-size: 1.2rem;
+  color: #2d3748;
+}
+
+.community-stats {
+  background-color: #e2e8f0;
+  padding: 15px;
+  border-radius: 10px;
+}

@@ -1,0 +1,16 @@
+.graphs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.graphs h3 {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .graphs {
+    width: 90%;
+  }
+}

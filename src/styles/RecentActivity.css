@@ -1,0 +1,14 @@
+.recent-activity {
+    margin-top: 20px;
+  }
+  
+  .recent-activity ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recent-activity li {
+    padding: 10px 0;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  
