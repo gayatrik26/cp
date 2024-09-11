@@ -39,7 +39,7 @@ The Competitive Programming Profile Aggregator is a web application designed to 
   - Retrieves user-specific data including solved problems, contest rankings, and achievements from LeetCode.
 
 - **GeeksforGeeks API**: 
-  - [GeeksforGeeks API](https://github.com/alfaarghya/alfa-leetcode-api) 
+  - [GeeksforGeeks API](https://github.com/arnoob16/GeeksForGeeksAPI)
   - Fetches user data such as article contributions, practice questions solved, and badges from GeeksforGeeks.
 
 - **Codeforces API**: 
