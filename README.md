@@ -40,6 +40,7 @@ The Competitive Programming Profile Aggregator is a web application designed to 
 
 - **GeeksforGeeks API**: 
   - [GeeksforGeeks API](https://github.com/arnoob16/GeeksForGeeksAPI)
+  - [2](https://github.com/pratham1singh/API-To-Fetch-GFG-user-Data)
   - Fetches user data such as article contributions, practice questions solved, and badges from GeeksforGeeks.
 
 - **Codeforces API**: 
