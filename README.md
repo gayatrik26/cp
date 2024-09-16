@@ -33,6 +33,9 @@ The Competitive Programming Profile Aggregator is a web application designed to 
 
 **APIs Used**:
 
+-**cp**:
+ -[cp around various platforms](https://github.com/arnoob16/cpAPI)
+
 - **LeetCode API**: 
   - [LeetCode Stats API](https://github.com/JeremyTsaii/leetcode-stats-api) 
   - [Alfa LeetCode API](https://github.com/alfaarghya/alfa-leetcode-api) 
